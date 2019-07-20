@@ -4,6 +4,7 @@
 Use one usb stick for both dashcam and media in your Tesla.
 
 ![][grandpa]
+
 **HERE BE DRAGONS! THIS PROCESS WILL DELETE ALL CONTENTS ON THAT USB STICK WHEN WE GO THROUGH THIS. HAVE A BACKUP OR COPY THE CONTENTS OF IT, BEFORE WE START, IF YOU NEED TO. I WILL NOT TOLERATE TEARS OF SADNESS FOR YOU DELETING [insert important stuff here] FROM THE USB DISK.**
 
 ## The longer what
@@ -37,7 +38,7 @@ Start Disk Utility on your Mac. It is located in /Applications/Utilities. The fa
 
 By default Disk Utility will not show all devices, only defined partitions on those devices. We need to change that.
 
-Either go to `View > Show All Devices` or tap the View button in the top left corner ad set it to `Show all devices`. Keyboard shortcut is `cmd + 2`.
+Either go to `View > Show All Devices` or tap the View button in the top left corner and set it to `Show all devices`. Keyboard shortcut is `cmd + 2`.
 
 Your window should look a bit like the one below now. Your disk names will differ.
 ![][default-disk]
