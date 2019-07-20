@@ -1,7 +1,7 @@
 # TeslaCam
 
 ## TL;DR
-Use one usb stick for both dashcam and media in your Tesla.
+Use one USB stick for both dashcam and media in your Tesla.
 
 ![][grandpa]
 **HERE BE DRAGONS! THIS PROCESS WILL DELETE ALL CONTENTS ON THAT USB STICK WHEN WE GO THROUGH THIS. HAVE A BACKUP OR COPY THE CONTENTS OF IT, BEFORE WE START, IF YOU NEED TO. I WILL NOT TOLERATE TEARS OF SADNESS FOR YOU DELETING [insert important stuff here] FROM THE USB DISK.**
@@ -11,9 +11,9 @@ The point of this guide is to show how you can use 1 usb stick for both TeslaCam
 
 The solution is to partition the USB disk into two partitions, one for TeslaCam and one for Media.
 
-I have found that a USB stick with both a TeslaCam folder and Media on the same disk, is not recognised as other than a dashcam recorder.
+I have found that a USB stick with both a TeslaCam folder and Media on the same disk, is not recognized as other than a dashcam recorder.
 
-This is for Mac OS. Windows will follow later. It is far esier on Windows.
+This is for Mac OS. Windows will follow later. It is far easier on Windows.
 
 ## The How-to
 There a a few steps tp make this work, especially on Mac OS. Windows is much simpler. Use the disk Management tool to partition the disks. I'll make a guide later for that, but on a Mac it is a bit more cumbersome.
@@ -75,7 +75,7 @@ Press '+' sign to add a new partition.
 
 TeslaCam part should be the first. I have set the TeslaCam part (tesla) to be 48 GB, and the media to be the rest. You can drag the small circles on the outer edge to resize the partitions.
 
-The right hand side part of this circle needs to be the teslacam partition.
+The right hand side part of this circle needs to be the TeslaCam partition.
 
 Set both partitions to Mac OS Extended. And press apply. The computer will do it's thing and puny humans are instructed to wait. So we wait.
 
