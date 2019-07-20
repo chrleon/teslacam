@@ -16,7 +16,7 @@ I have found that a USB stick with both a TeslaCam folder and Media on the same 
 This is for Mac OS. Windows will follow later. It is far easier on Windows.
 
 ## The How-to
-There a a few steps tp make this work, especially on Mac OS. Windows is much simpler. Use the disk Management tool to partition the disks. I'll make a guide later for that, but on a Mac it is a bit more cumbersome.
+There a a few steps to make this work, especially on Mac OS. Windows is much simpler. Use the disk Management tool to partition the disks. I'll make a guide later for that, but on a Mac it is a bit more cumbersome.
 
 ### Steps
 1. Set up Disk Utility for this
