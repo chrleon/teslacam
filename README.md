@@ -1,7 +1,7 @@
 # TeslaCam
 
 ## TL;DR
-Use one USB stick for both dashcam and media in your Tesla.
+Use one USB stick for both dashcam and media in your Tesla. This process is for the Mac. Windows version will follow.
 
 ![][grandpa]
 
